@@ -1,0 +1,11 @@
+main:
+#   - title: "Home"
+#     url: /
+  - title: "Authors"
+    url: /#the-authors
+  - title: "Book"
+    url: /#order
+  - title: "Training and Consulting"
+    url: /#training
+#   - title: "Consulting"
+#     url: /#consulting

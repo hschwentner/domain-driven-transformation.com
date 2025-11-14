@@ -1,0 +1,71 @@
+
+<section class="page__section testimonials-section">
+  <h2 class="page__title">What Industry Experts Say</h2>
+
+  <div class="testimonials-grid">
+    {% for t in site.data.testimonials %}
+    <div class="testimonial-card">
+      <!-- <div class="quote-mark">“</div> -->
+      <blockquote class="testimonial-text">{{ t.quote }}</blockquote>
+      {% if t.image %}
+        <img class="testimonial-portrait" src="{{ t.image }}" alt="{{ t.author }}">
+      {% endif %}
+      <p class="testimonial-author">
+        <strong>{{ t.author }}</strong><br>
+        <span>{{ t.role }}</span>
+      </p>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<style>
+.testimonials-section {
+  padding: 2rem 0;
+}
+
+.testimonials-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.testimonial-card {
+  background: var(--mm-color-bg);
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.10);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.quote-mark {
+  font-size: 3rem;
+  line-height: 1;
+  color: var(--mm-color-accent, #6a4cff);
+  font-family: serif;
+  opacity: 0.5;
+}
+
+.testimonial-text {
+  font-style: italic;
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+.testimonial-portrait {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 0.5rem;
+}
+
+.book-title {
+  font-style: italic;
+}
+
+</style>
