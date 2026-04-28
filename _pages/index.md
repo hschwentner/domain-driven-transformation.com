@@ -73,7 +73,7 @@ Henning is the proud father of six children in a very special patchwork situatio
 
 *Domain-Driven Transformation: Modernize Legacy Software and Mitigate Risk*
 
-Published by O’Reilly.
+Published by O’Reilly. [Errata](/errata).
 
 [<i class="fas fa-book"></i> O’Reilly](https://www.oreilly.com/library/view/domain-driven-transformation/9798341640108/){: .btn .btn--primary .btn--large}
 [<i class="fab fa-amazon"></i> Amazon US](https://amzn.to/4gIrTbH){: .btn .btn--primary .btn--large}
@@ -85,7 +85,7 @@ Published by O’Reilly.
 
 *Domain-Driven Transformation: Monolithen und Microservices zukunftsfähig machen*
 
-Published by dpunkt. <!-- Also available is a [short booklet](https://www.assets.dpunkt.de/openbooks/Schwentner_Domain_Storytelling_Broschuere_2A_Web.pdf). -->
+Published by dpunkt. [Errata](/errata-de). <!-- Also available is a [short booklet](https://www.assets.dpunkt.de/openbooks/Schwentner_Domain_Storytelling_Broschuere_2A_Web.pdf). -->
 
 [<i class="fas fa-book"></i> dpunkt](https://dpunkt.de/produkt/domain-driven-transformation/?ref=10024){: .btn .btn--primary .btn--large}
 [<i class="fab fa-amazon"></i> Amazon DE](https://amzn.to/3PnJ6M1){: .btn .btn--primary .btn--large}
