@@ -8,7 +8,7 @@
       <!-- <div class="quote-mark">“</div> -->
       <blockquote class="testimonial-text">{{ t.quote }}</blockquote>
       {% if t.image %}
-        <img class="testimonial-portrait" src="{{ t.image }}" alt="{{ t.author }}">
+        <img class="testimonial-portrait" src="{{ t.image | relative_url }}" alt="{{ t.author }}" loading="lazy" onerror="this.style.display='none'">
       {% endif %}
       <p class="testimonial-author">
         <strong>{{ t.author }}</strong><br>

@@ -1,23 +1,23 @@
 - quote: "“If you are starting a transformation project, I recommend that you read this book.”"
   author: "Michael Feathers"
   role: 'Author of <span class="book-title">Working Effectively with Legacy Code</span>'
-  image: "https://media.licdn.com/dms/image/v2/C4E03AQH_T3bwPHQxgw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516186227960?e=1764806400&v=beta&t=MCuoI8MvIFhSV7Z_DBQcr2oJ8SWuc0e_57bV2fouFgk"
+  image: "/assets/images/testimonials/michael-feathers.jpg"
 
 - quote: "“I really enjoyed this book! It is the best DDD book on the market.”"
   author: "Sergio Morazán"
   role: 'Senior technical product owner, OBI Group Holding'
-  image: "https://media.licdn.com/dms/image/v2/D4E03AQH3YnMtRo5Orw/profile-displayphoto-scale_400_400/B4EZlPf7YxKkAg-/0/1757975394478?e=1764806400&v=beta&t=NUrCxJlAJIFkmr8YNkejOCWxzW1YuEVNCLUzrtcYKKY"
+  image: "/assets/images/testimonials/sergio-morazan.jpg"
 
 # - quote: "“No one ever said reworking complex legacy systems is easy. But where should you start? These authors have answers. This book is packed full of practical advice on how to assess the current state of your legacy systems and options for transforming tangled legacy systems (and the organizations that support them) into more sustainable systems using the values, principles, and practices of modern Domain-Driven Design.”"
 - quote: "“This book is packed full of practical advice on how to assess the current state of your legacy systems and options for transforming tangled legacy systems using the values, principles, and practices of modern Domain-Driven Design.”"
   author: "Rebecca Wirfs-Brock"
   role: "Object-design pioneer, author, and inventor of Responsibility-Driven Design (RDD) who by accident started the xDD meme"
-  image: "https://media.licdn.com/dms/image/v2/C5603AQEm13JdL5_SQA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1610395954771?e=1764806400&v=beta&t=r801BxKnpaX6v9irO9oC9jGA2ypeOPmKDQQuwHqK3vU"
+  image: "/assets/images/testimonials/rebecca-wirfs-brock.jpg"
 
 - quote: "“Transforming your legacy systems requires a whole range of skills, and you can find them all in this fantastic book.”"
   author: "Nick Tune"
   role: 'Coauthor of <span class="book-title">Architecture Modernization</span>'
-  image: "https://media.licdn.com/dms/image/v2/D4E03AQFQjvd6cy0a-g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1690460889925?e=1764806400&v=beta&t=-WAcLvw4fGOXNy99qumnaTBc6a-ZIx0GNeIBdt6LUR8"
+  image: "/assets/images/testimonials/nick-tune.jpg"
 
 # - quote: "“*Domain-Driven Transformation* delivers a powerful and practical approach to incremental legacy modernization. It brilliantly bridges the gap between current and target architectures by connecting domain discovery, bounded contexts, and the Modularity Maturity Index into actionable transformation paths.”"
 #   author: "Susanne Kaiser"
