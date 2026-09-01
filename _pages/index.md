@@ -111,6 +111,7 @@ Published by O’Reilly Japan/Ohmsha.
 Published by Helion.
 
 [<i class="fas fa-book"></i> Helion](https://helion.pl/ksiazki/domain-driven-design-w-transformacji-systemow-skuteczna-modernizacja-legacy-bez-zbednego-ryzyka-carola-lilienthal-henning-schwentner,dddtra.htm){: .btn .btn--primary .btn--large}
+[<i class="fab fa-amazon"></i> Amazon PL](https://www.amazon.pl/dp/8328938812){: .btn .btn--primary .btn--large}
 
 ## Training and Consulting
 
