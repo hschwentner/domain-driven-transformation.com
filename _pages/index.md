@@ -90,6 +90,29 @@ Published by dpunkt. [Errata](/errata-de). <!-- Also available is a [short bookl
 [<i class="fas fa-book"></i> dpunkt](https://dpunkt.de/produkt/domain-driven-transformation/?ref=10024){: .btn .btn--primary .btn--large}
 [<i class="fab fa-amazon"></i> Amazon DE](https://amzn.to/3PnJ6M1){: .btn .btn--primary .btn--large}
 
+### Polish Edition
+
+![Polish Cover of book *Domain-Driven Transformation*](https://static01.helion.com.pl/global/okladki/326x466/dddtra.jpg){: .align-left width="18%"}
+
+*Domain-Driven Design w transformacji systemów: Skuteczna modernizacja legacy bez zbędnego ryzyka*
+
+Published by Helion.
+
+[<i class="fas fa-book"></i> Helion](https://helion.pl/ksiazki/domain-driven-design-w-transformacji-systemow-skuteczna-modernizacja-legacy-bez-zbednego-ryzyka-carola-lilienthal-henning-schwentner,dddtra.htm){: .btn .btn--primary .btn--large}
+[<i class="fab fa-amazon"></i> Amazon PL](https://www.amazon.pl/dp/8328938812){: .btn .btn--primary .btn--large}
+
+### Japanese Edition
+
+![Japanese Cover of book *Domain-Driven Transformation*](https://www.oreilly.co.jp/books/images/picture_large978-4-8144-0172-7.jpeg){: .align-left width="18%"}
+
+*ドメイン駆動トランスフォーメーション ―レガシーシステムのモダナイゼーションとリスク低減*
+
+Published by O’Reilly Japan/Ohmsha.
+
+[<i class="fas fa-book"></i> O’Reilly Japan](https://www.oreilly.co.jp/books/9784814401727/){: .btn .btn--primary .btn--large}
+[<i class="fab fa-amazon"></i> Amazon JP](https://www.amazon.co.jp/dp/4814401728){: .btn .btn--primary .btn--large}
+[<i class="fas fa-book"></i> Kinokuniya](https://www.kinokuniya.co.jp/f/dsg-01-9784814401727){: .btn .btn--primary .btn--large}
+
 ## Training and Consulting
 
 Get in touch for [consulting](#the-authors) or [in-house trainings](#the-authors) or book a seat in an [open training](https://ddd.academy/domain-driven-transformation/).
