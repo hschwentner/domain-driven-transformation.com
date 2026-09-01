@@ -96,7 +96,7 @@ Published by dpunkt. [Errata](/errata-de). <!-- Also available is a [short bookl
 
 *ドメイン駆動トランスフォーメーション ―レガシーシステムのモダナイゼーションとリスク低減*
 
-Published by O’Reilly Japan / Ohmsha.
+Published by O’Reilly Japan/Ohmsha.
 
 [<i class="fas fa-book"></i> O’Reilly Japan](https://www.oreilly.co.jp/books/9784814401727/){: .btn .btn--primary .btn--large}
 [<i class="fab fa-amazon"></i> Amazon JP](https://www.amazon.co.jp/dp/4814401728){: .btn .btn--primary .btn--large}
