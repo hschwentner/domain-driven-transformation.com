@@ -23,6 +23,6 @@ layout: single
 
 *Page 291:* In the architecture analyst’s question at the end of the page replace “risk management” with “risk assessment.”
 
-###
+### Chapter 13: “Step 4—Prioritization and Implementation of the Transformation Measures”
 
 *Page 327:* In the list of the challenges the entry “Identity of entities” is missing between “Moving local data, setters, and getters into a Context” and “Duplicating data, setters, and getters into multiple contexts.” In the following paragraphs instead of “seven challenges” it should be “eight challenges” accordingly.
